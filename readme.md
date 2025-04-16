@@ -8,7 +8,8 @@ http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
 
 [<img src="/images/path.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src=/images/template.webp" alt="image" style="max-width: 100%;"></a>
+[<img src="/images/template.webp" width="300">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+
 
 This content is strictly for educational and informational purposes, aiming to shed light on the structure and mechanics of the darkweb. We do not receive any commissions or benefits from affiliate links, nor are we affiliated with any legal entities. Our goal is to encourage safe and informed exploration of the darkweb without supporting or endorsing illegal activities.
 
