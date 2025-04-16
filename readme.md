@@ -6,7 +6,7 @@ Nexus Darknet Market has built a prominent presence in the darknet, offering use
 
 http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
 
-[<img src="/images/path.webp" width="200"](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/images/path.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
 
 <a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src=/images/template.webp" alt="image" style="max-width: 100%;"></a>
 
