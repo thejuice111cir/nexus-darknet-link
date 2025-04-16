@@ -37,8 +37,9 @@ Here are the precautions that you can take in order to navigate Nexus Darknet ef
 -   **Privacy Is Paramount**: Prioritize the use of secure browsers like Tor in order to protect your browsing activity and your identity.
 -   **Safe Transactions**: Use trusted mirrors, as well as exercise caution when you are engaging in transactions to minimize all risks.
 
-<a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/images/final.webp" alt="image" style="max-width: 100%;"></a>
-<a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/images/over.webp" alt="image" style="max-width: 100%;"></a>
+[<img src="/images/over .webp" width="300">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/images/final.webp" width="300">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+
 
 ---
 
