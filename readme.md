@@ -6,9 +6,9 @@ Nexus Darknet Market has built a prominent presence in the darknet, offering use
 
 http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
 
-[img src=assetspath.webp width=200](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[img src=path.webp width=200](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
 
-a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onionimg src=assetstemplate.webp alt=image style=max-width 100%;a
+<a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onionimg src=template.webp alt=image style=max-width 100%;"></a>
 
 This content is strictly for educational and informational purposes, aiming to shed light on the structure and mechanics of the darkweb. We do not receive any commissions or benefits from affiliate links, nor are we affiliated with any legal entities. Our goal is to encourage safe and informed exploration of the darkweb without supporting or endorsing illegal activities.
 
@@ -36,8 +36,8 @@ Here are the precautions that you can take in order to navigate Nexus Darknet ef
 -   **Privacy Is Paramount**: Prioritize the use of secure browsers like Tor in order to protect your browsing activity and your identity.
 -   **Safe Transactions**: Use trusted mirrors, as well as exercise caution when you are engaging in transactions to minimize all risks.
 
-a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onionimg src=assetsfinal.webp alt=image style=max-width 100%;a
-a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onionimg src=assetsover  .webp alt=image style=max-width 100%;a
+<a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onionimg src=final.webp alt=image style=max-width 100%;"></a>
+<a href=http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onionimg src=over.webp alt=image style=max-width 100%;"></a>
 
 ---
 
